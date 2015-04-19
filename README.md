@@ -1,8 +1,20 @@
 Vagrant LAMP
-============
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/r8/vagrant-lamp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+===========
 
-My default LAMP development stack configuration for Vagrant.
+OE LAMP development stack configuration for Vagrant.
+
+Forked from: https://github.com/r8/vagrant-lamp
+
+The repository it was working fine we forked just to customize to our own needs and as a platform for new oe developers colaborators.
+
+TODO
+-----
+
+setup main virtualhosts wp, magento, joomla, yii2 and fundation4
+create sample db for testing
+add testing tools
+
+
 
 Requrements
 -----------
